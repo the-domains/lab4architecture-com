@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-11T21:50:00.401Z'
-dateModified: '2016-04-11T21:48:11.114Z'
+datePublished: '2016-04-11T21:56:13.035Z'
+dateModified: '2016-04-11T21:53:24.460Z'
 title: Laboratory for Architecture and Building
 author: []
 sourcePath: _posts/2016-04-11-laboratory-for-architecture-and-building.md

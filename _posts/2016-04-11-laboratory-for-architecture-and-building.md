@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-11T21:28:53.056Z'
-dateModified: '2016-04-11T21:28:38.298Z'
+datePublished: '2016-04-11T21:50:00.401Z'
+dateModified: '2016-04-11T21:48:11.114Z'
 title: Laboratory for Architecture and Building
 author: []
 sourcePath: _posts/2016-04-11-laboratory-for-architecture-and-building.md
@@ -22,8 +22,10 @@ url: laboratory-for-architecture-and-building/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/558a8bc3-e554-4f22-8c10-13221d238455.jpg)
+
 Laboratory for Architecture and Building
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f381c3ce7360c60baa8c89f9622250bd52678ddd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b956a573-0565-4954-be4a-59109369501c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/079f8089-b583-4007-aa86-fe98b8266b6a.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d41979d240e575ade813a6f1fc2abc415742ec8b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f381c3ce7360c60baa8c89f9622250bd52678ddd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7f35098a53520d1657f3ab9130bfb046ac51402.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5f4924a0235839b2b04e3529fee7d6016ca5c9f.jpg)

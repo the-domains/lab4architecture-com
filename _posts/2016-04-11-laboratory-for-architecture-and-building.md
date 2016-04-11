@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-11T21:19:03.042Z'
-dateModified: '2016-04-11T21:18:43.930Z'
+datePublished: '2016-04-11T21:23:32.818Z'
+dateModified: '2016-04-11T21:23:26.457Z'
 title: Laboratory for Architecture and Building
 author: []
+sourcePath: _posts/2016-04-11-laboratory-for-architecture-and-building.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-laboratory-for-architecture-and-building.md
-published: true
 url: laboratory-for-architecture-and-building/index.html
 _type: Article
 
